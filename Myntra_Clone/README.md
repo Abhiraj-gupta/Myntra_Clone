@@ -18,14 +18,5 @@ Enjoy examining the Myntra-inspired design and learning from this project.
 
 Don't forget to **star** the repository if you find it interesting or useful! ⭐⭐
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). You are encouraged to use it for learning, make modifications, or even contribute to its development.
-
-## Project-Link
-Visit-site: https://manishak798.github.io/Myntra-Clone/
-
-## Project-Screenshot
-![image](https://github.com/Manishak798/Myntra-Clone/assets/90680330/692fe57b-e052-47f2-904c-076213e4a341)
 
 Happy coding!😍
